@@ -1,5 +1,4 @@
 <html>
-
 <head>
     <title>Test</title>
     <link rel="stylesheet" href="./test.css" class="css">
@@ -8,7 +7,6 @@
     </script>
     <script src="./test.js"></script>
 </head>
-
 <body>
     <table>
         <form id="myForm" class="myForm">
@@ -34,10 +32,7 @@
             </td>
             <td><input type="radio" id="SELECT YOUR YEAR" name="year" value="4th YEAR" />
                 <span class="option">4th YEAR</span><br />
-            </td>
-
-
-    </table>
+            </td></table>
     <hr color="blue">
     </hr>
     <h2 align="center"> NATIONAL LEVEL QUIZ ON C PROGRAMMING</h2>
